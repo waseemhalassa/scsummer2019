@@ -16,5 +16,8 @@ public class Test
         
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
+
+        Person p2= new Person ("Ahmad", 4);
+        System.out.println (p2.getName ());
     }
 }
